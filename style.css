@@ -40,7 +40,7 @@ div {
 }
 
 .dream {
-  background-image: url('images/smoke.jpg');
+  background-image: url('./images/smoke.jpg');
   background-size: 100% auto;
   background-repeat: no-repeat;
   width: 100%;
